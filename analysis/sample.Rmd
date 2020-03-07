@@ -1,0 +1,6 @@
+```{r}
+library(DataExplorer)
+create_report(mtcars, output_format = "github_document", output_file = "df.md",
+              output_dir = "../output")
+```
+
