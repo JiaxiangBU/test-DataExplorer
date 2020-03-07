@@ -19,30 +19,30 @@ Data Profiling Report
 
 #### Percentages
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/plot_intro-1.png)<!-- -->
+![](df_files/figure-gfm/plot_intro-1.png)<!-- -->
 
 ### Data Structure
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/data_structure-1.png)<!-- -->
+![](df_files/figure-gfm/data_structure-1.png)<!-- -->
 
 ### Missing Data Profile
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/missing_profile-1.png)<!-- -->
+![](df_files/figure-gfm/missing_profile-1.png)<!-- -->
 
 ### Univariate Distribution
 
 #### Histogram
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/plot_histogram-1.png)<!-- -->
+![](df_files/figure-gfm/plot_histogram-1.png)<!-- -->
 
 #### QQ Plot
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/plot_normal_qq-1.png)<!-- -->![](D:/work/test-DataExplorer/output/df_files/figure-gfm/plot_normal_qq-2.png)<!-- -->
+![](df_files/figure-gfm/plot_normal_qq-1.png)<!-- -->![](df_files/figure-gfm/plot_normal_qq-2.png)<!-- -->
 
 ### Correlation Analysis
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/correlation_analysis-1.png)<!-- -->
+![](df_files/figure-gfm/correlation_analysis-1.png)<!-- -->
 
 ### Principal Component Analysis
 
-![](D:/work/test-DataExplorer/output/df_files/figure-gfm/principal_component_analysis-1.png)<!-- -->![](D:/work/test-DataExplorer/output/df_files/figure-gfm/principal_component_analysis-2.png)<!-- -->
+![](df_files/figure-gfm/principal_component_analysis-1.png)<!-- -->![](df_files/figure-gfm/principal_component_analysis-2.png)<!-- -->
